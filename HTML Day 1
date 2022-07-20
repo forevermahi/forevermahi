@@ -1,0 +1,30 @@
+<html>
+
+<head>
+
+<title>INSTAGRAM FOLLOW</title>
+
+<style>
+h1{
+    background-color:blue;
+    color:#white;
+    width: 150px;
+
+    border-width: 3px;
+    border-color: #06a1fc;
+    border-style: solid;
+    border-radius: 50px;
+    text-align: center;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1> Follow </h1> 
+
+</body>
+
+</html>
